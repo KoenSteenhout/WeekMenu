@@ -1,0 +1,59 @@
+{
+  "title": "Parelcouscous met champignons en gruyère",
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Parelcouscous",
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Champignons",
+      "quantity": 1500,
+      "unit": "g"
+    },
+    {
+      "name": "Geraspte gruyère",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Knoflookteen",
+      "quantity": 4,
+      "unit": "st"
+    },
+    {
+      "name": "Rucola",
+      "quantity": 160,
+      "unit": "g"
+    },
+    {
+      "name": "Walnoten",
+      "quantity": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Groentebouillon",
+      "quantity": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "Roomboter",
+      "quantity": 3,
+      "unit": "el"
+    },
+    {
+      "name": "Peper & zout",
+      "quantity": 0,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Bereid de bouillon. Verhit de helft van roomboter in een pan met deksel. Voeg parelcouscous toe en bak al roerend 1 minuut op middelhoog vuur. Voeg de bouillon toe, breng aan de kook, zet het vuur laag en kook de parelcouscous afgedekt, in 12 minuten droog. Roer daarna de korrels los en laat zonder deksel uitstomen.",
+    "Pers of snijd ondertussen de knoflook fijn en snijd de champignons in plakken.",
+    "Verhit de overige roomboter in een wok of hapjespan en bak de knoflook en de champignons 4 - 5 minuten op middelhoog vuur (zie tip). Breng op smaak met peper en zout.",
+    "Voeg de parelcouscous, de helft van de gruyère en de helft van de rucola toe aan de champignons en bak al roerend 2 minuten op middelhoog vuur (zie tip).",
+    "Maak van de overige rucola een bedje op de borden.",
+    "Verdeel het parelcouscousmengsel over de borden en garneer met de walnoten en de overige gruyère."
+  ]
+}

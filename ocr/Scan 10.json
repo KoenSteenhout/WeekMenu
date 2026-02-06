@@ -1,0 +1,57 @@
+{
+  "title": "De snelle platbroodpizza caprese",
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "Sjalot",
+      "quantity": 1,
+      "unit": "stuk"
+    },
+    {
+      "name": "Champignons",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Libanees platbrood",
+      "quantity": 4,
+      "unit": "stuk"
+    },
+    {
+      "name": "Groene pesto",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Buffelmozzarella",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Rucola",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Olijfolie",
+      "quantity": 1,
+      "unit": "eetlepel"
+    },
+    {
+      "name": "Extra vierge olijfolie",
+      "quantity": 0.5,
+      "unit": "eetlepel"
+    },
+    {
+      "name": "Peper & zout",
+      "quantity": 0,
+      "unit": "naar smaak"
+    }
+  ],
+  "steps": [
+    "Verwarm de oven voor op 220 graden. Snipper de sjalot. Halveer de champignons en snijd de eventuele grotere in kwarten.",
+    "Verhit de olijfolie in een koekenpan op hoog vuur en bak de champignons en de sjalot 3 – 5 minuten. Breng op smaak met peper en zout. Verdeel de Libanese platbroden over een bakplaat met bakpapier en besmeer met de groene pesto. Scheur de buffelmozzarella klein en verdeel met de champignons over de platbroden.",
+    "Bak de platbroden 6 – 9 minuten in de oven. Meng de rucola met de extra vierge olijfolie en breng op smaak met peper en zout.",
+    "Verdeel de platbroodpizza's over de borden en garneer met de rucola."
+  ]
+}

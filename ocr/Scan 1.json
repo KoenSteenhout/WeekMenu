@@ -1,0 +1,82 @@
+{
+  "title": "string",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "Knoflookteen",
+      "quantity": 1.5,
+      "unit": "tl"
+    },
+    {
+      "name": "Limoen",
+      "quantity": 1,
+      "unit": "stuk(s)"
+    },
+    {
+      "name": "Maïs in blik",
+      "quantity": 285,
+      "unit": "g"
+    },
+    {
+      "name": "Sojasaus met minder zout",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "Volkoren mini-tortilla",
+      "quantity": 3,
+      "unit": "stuk(s)"
+    },
+    {
+      "name": "Gezouten pinda's",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Zoete Aziatische saus",
+      "quantity": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Slamix met radicchio, rucola en bladsla",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Witte kool en wortel",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Gemberpuree",
+      "quantity": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Oosters gekruid rundergehakt",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Rode puntpaprika",
+      "quantity": 1,
+      "unit": "stuk(s)"
+    }
+  ],
+  "steps": [
+    "Verwarm de oven voor op 180 graden Celcius.",
+    "Snipper de ui. Pers de knoflook of snijd fijn.",
+    "Snijd de limoen in partjes.",
+    "Laat de maïs uitlekken en houd apart in een kom.",
+    "Snijd de puntpaprika in repen.",
+    "Meng in een kleine kom de knoflook, gemberpuree, sojasaus en de helft van de aangegeven hoeveelheid water voor de saus.",
+    "Pers 1 limoenpartje per persoon uit boven de kleine kom.",
+    "Verhit de zonnebloemolie in een pan op middelhoog vuur. Bak de ui en de puntpaprika 2 - 3 minuten.",
+    "Roer het gehakt erdoor en bak in 3 minuten los en gelijkmatig bruin.",
+    "Voeg de gember-sojasaus toe en bak nog 2 - 3 minuten.",
+    "Verpak de tortilla's in aluminiumfolie en verwarm 2 - 4 minuten in de oven.",
+    "Hak ondertussen de pinda's grof.",
+    "Meng in een kleine kom de mayonaise met de zoete Aziatische saus, de witte wijnazijn en het overige water voor de saus.",
+    "Serveer alle ingrediënten apart en laat iedereen zelf naar smaak de taco's beleggen, of beleg de taco's vóór serveren."
+  ]
+}

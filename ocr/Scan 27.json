@@ -1,0 +1,54 @@
+{
+  "title": "Pastasalade met gekleurde tomaten en feta",
+  "servings": 1,
+  "ingredients": [
+    {
+      "name": "Fusilli integrale",
+      "quantity": 90,
+      "unit": "g"
+    },
+    {
+      "name": "Gekleurde cherrytomaten",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Lente-ui",
+      "quantity": 1,
+      "unit": "st"
+    },
+    {
+      "name": "Rucola",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Feta",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Groene pesto Genovese",
+      "quantity": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Zwarte balsamicoazijn",
+      "quantity": 1,
+      "unit": "tl"
+    },
+    {
+      "name": "Peper & zout",
+      "quantity": null,
+      "unit": "naar smaak"
+    }
+  ],
+  "steps": [
+    "Kook 500 ml water per persoon in een pan met deksel voor de fusilli en kook de fusilli, afgedekt, 10 minuten. Giet daarna af en spoel kort onder koud water om verdere garing tegen te gaan.",
+    "Halveer ondertussen de tomaten en snijd de lente-ui in fijne ringen. Scheur de rucola klein. Meng de tomaten, lente-ui en rucola in een saladekom.",
+    "Verkruimel de feta en meng het grootste deel van de feta door de salade.",
+    "Voeg de fusilli en de pesto toe aan de salade en meng alles goed.",
+    "Breng de salade op smaak met de zwarte balsamicoazijn, peper en zout.",
+    "Verdeel het gerecht over de borden en garneer met de achtergehouden feta."
+  ]
+}

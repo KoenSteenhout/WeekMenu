@@ -1,0 +1,101 @@
+{
+  "title": "Spek omwikkelde kip met aardappelpuree en spruiten",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "Kipfilet",
+      "quantity": 3,
+      "unit": "stuk(s)"
+    },
+    {
+      "name": "Ontbijtspek",
+      "quantity": 3,
+      "unit": "sneetje(s)"
+    },
+    {
+      "name": "Aardappelen",
+      "quantity": 750,
+      "unit": "g"
+    },
+    {
+      "name": "Rode ui",
+      "quantity": 1.5,
+      "unit": "stuk(s)"
+    },
+    {
+      "name": "Spruiten",
+      "quantity": 450,
+      "unit": "g"
+    },
+    {
+      "name": "Grana Padano vlokken DOP",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Verse krulpeterselie",
+      "quantity": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Italiaanse kruiden",
+      "quantity": 1.5,
+      "unit": "zakje(s)"
+    },
+    {
+      "name": "Plantaardige boter",
+      "quantity": 3,
+      "unit": "el"
+    },
+    {
+      "name": "Olijfolie",
+      "quantity": 3,
+      "unit": "el"
+    },
+    {
+      "name": "Mosterd",
+      "quantity": 1.5,
+      "unit": "tl"
+    },
+    {
+      "name": "Zwarte balsamicoazijn",
+      "quantity": 1.5,
+      "unit": "el"
+    },
+    {
+      "name": "Honing [of plantaardig alternatief]",
+      "quantity": 1.5,
+      "unit": "el"
+    },
+    {
+      "name": "Plantaardige melk",
+      "quantity": 1,
+      "unit": "splash"
+    },
+    {
+      "name": "Peper en zout",
+      "quantity": 1,
+      "unit": "naar smaak"
+    }
+  ],
+  "steps": [
+    "Verwarm de oven voor op 210 graden.",
+    "Breng water aan de kook in een pot. Halveer de spruiten en kook 2 - 3 minuten. Haal daarna uit de pot met een schuimspaan.",
+    "Bewaar de pot met water om later te gebruiken voor de aardappelen.",
+    "Verdeel de spruiten over een bakplaat met bakpapier en besprenkel met een scheutje olijfolie. Breng op smaak met peper en zout. Rooster 12 - 15 min in de oven.",
+    "Schil de aardappelen en snijd in grove stukken. Kook 12 - 15 minuten, giet af en voeg opnieuw toe aan de pot.",
+    "Snijd ondertussen de peterselie grof.",
+    "Stamp met een aardappelstamper de aardappelen, een klontje boter en een scheutje melk naar smaak tot een puree.",
+    "Roer de mosterd, peterselie en Italiaanse kruidenmix erdoor en breng op smaak met peper en zout.",
+    "Breng ondertussen de kip op smaak met peper en zout en wikkel het ontbijtspek eromheen.",
+    "Verhit een klontje boter in een pan op middelhoog vuur en bak de kip 2 minuten per kant.",
+    "Verlaag het vuur en bak nog 4 minuten per kant of tot de kip gaar is.",
+    "Snipper ondertussen de ui.",
+    "Verhit een scheutje olijfolie in een sauteerpan op middelmatig vuur en bak de ui 5 - 7 minuten.",
+    "Blus af met de zwarte balsamicoazijn en roer de honing erdoor. Breng op smaak met peper en zout.",
+    "Voeg de spruiten toe en meng goed.",
+    "Serveer de puree op borden en verdeel de spruiten erover.",
+    "Garneer met de Grana Padano.",
+    "Leg de met spek omwikkelde kip erop."
+  ]
+}

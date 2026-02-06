@@ -1,0 +1,49 @@
+{
+  "title": "Tonijn-pastosaus met cherrytomaten",
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "Ui",
+      "quantity": 1,
+      "unit": "st"
+    },
+    {
+      "name": "Rode cherrytomaten",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Tonijn in olijfolie",
+      "quantity": 1,
+      "unit": "blikje"
+    },
+    {
+      "name": "Conchiglie tricolore",
+      "quantity": 180,
+      "unit": "g"
+    },
+    {
+      "name": "Pijnboompitten",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Mesclun",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Groene pesto Genovese",
+      "quantity": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Kook 500 ml water per persoon in een pan met deksel voor de conchiglie tricolore. Snipper de ui en halveer de rode cherrytomaten. Laat de tonijn uitlekken en bewaar de olie.",
+    "Kook de conchiglie in de pan met deksel, afgedekt, 14 – 16 minuten. Giet daarna af en laat zonder deksel uitstomen.",
+    "Verhit ondertussen een wok of hapjespan op hoog vuur en rooster de pijnboompitten, zonder olie, goudbruin.",
+    "Meng ondertussen de mesclun en een klein beetje van de pesto in een saladekom. Breng op smaak met peper en zout. Besprenkel naar smaak met extra vierge olijfolie.",
+    "Verhit in dezelfde wok of hapjespan 1 el olie van de tonijn per persoon en bak de cherrytomaten en ui 5 minuten op middellaag vuur (pas op: als de pan te heet is, kan dit spetteren). Voeg daarna de tonijn, conchiglie en de overige pesto toe. Breng op smaak met peper en zout.",
+    "Serveer de pasta in tonijnsaus met de mesclun en bestrooi met pijnboompitten."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Groenteburger met zoete aardappelfrietjes en frisse salade",
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Bataat",
+      "quantity": 900,
+      "unit": "g"
+    },
+    {
+      "name": "Groenteburgerdeeg",
+      "quantity": 450,
+      "unit": "g"
+    },
+    {
+      "name": "Gesneden peen",
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Ravigotesaus",
+      "quantity": 240,
+      "unit": "g"
+    },
+    {
+      "name": "Kappertjes en augurken",
+      "quantity": 175,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Verwarm de oven voor op 220 graden. Was of schil de bataat en snijd in repen van 1 cm dik. Snijd de rode ui in ringen.",
+    "Verdeel de bataat over een bakplaat bekleed met bakpapier en meng met de olijfolie, peper en zout. Bak de bataat 20 – 25 minuten in de oven, schep halverwege om. Zorg dat er nog ruimte over is in de oven voor een rooster voor de broodjes die later meegebakken worden.",
+    "Meng ondertussen in een andere kom 3/4 van de gesneden peen met 1/4 van het groenteburgerdeeg. Maak per persoon 1 stevige burger (zie tip en intro). Verhit de helft van de roomboter in een koekenpan en bak beide zijden van de burgers op hoog vuur in 2 – 3 minuten aan. Verlaag het vuur en bak de burgers op middelhoog vuur nog 3 – 4 minuten, keer tussendoor om.",
+    "Verhit ondertussen in een andere koekenpan de overige roomboter en bak de rode ui met de overige peen 3 – 4 minuten op middelhoog vuur. Breng op smaak met peper en zout.",
+    "Leg de burgerbroodjes op een rooster en schuif bij de bataat in de oven en bak de laatste 5 minuten mee. Haal ondertussen de bladeren los van de slakrop en meng de sla met de gebakken peen, ui en de helft van de ravigotesaus.",
+    "Leg de burgers op de broodjes en verdeel de bataat en de salade over de borden. Serveer de kappertjes en augurken en de overige ravigotesaus apart, zodat iedereen deze naar eigen smaak kan toevoegen."
+  ]
+}

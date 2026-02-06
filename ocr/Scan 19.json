@@ -1,0 +1,79 @@
+{
+  "title": "Tomatenrisotto met buffelmozzarella",
+  "servings": 1,
+  "ingredients": [
+    {
+      "name": "Ui",
+      "quantity": 0.25,
+      "unit": "st"
+    },
+    {
+      "name": "Knoflookteen",
+      "quantity": 1,
+      "unit": "st"
+    },
+    {
+      "name": "Bleekselderij",
+      "quantity": 1,
+      "unit": "stengel"
+    },
+    {
+      "name": "Pruimtomaat",
+      "quantity": 1,
+      "unit": "st"
+    },
+    {
+      "name": "Verse basilicum",
+      "quantity": 6,
+      "unit": "blaadjes"
+    },
+    {
+      "name": "Risottorijst",
+      "quantity": 75,
+      "unit": "g"
+    },
+    {
+      "name": "Rode peper",
+      "quantity": 0.25,
+      "unit": "st"
+    },
+    {
+      "name": "Buffelmozzarella",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "name": "Geraspte pecorino",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Groentebouillon",
+      "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "Roomboter",
+      "quantity": 1,
+      "unit": "el"
+    },
+    {
+      "name": "Olijfolie",
+      "quantity": 0.5,
+      "unit": "el"
+    },
+    {
+      "name": "Peper & zout",
+      "quantity": 0,
+      "unit": "naar smaak"
+    }
+  ],
+  "steps": [
+    "Bereid de bouillon. Snipper de ui en pers of snijd de knoflook fijn. Halveer de bleekselderij in de lengte en snijd vervolgens in dunne boogjes.",
+    "Smelt de roomboter in een pan met deksel op middellaag vuur en voeg de ui, knoflook, bleekselderij, olijfolie en 2 el water per persoon toe. Roerbak de groenten 5 minuten op laag vuur, of totdat ze zacht zijn. Snijd ondertussen de tomaat in blokjes van 1 cm en bewaar apart. Voeg de risottorijst toe aan de pan met deksel en bak al roerend 1 minuut mee.",
+    "Voeg ⅓ van de bouillon toe aan de pan met deksel en laat de rijstkorrels de bouillon langzaam opnemen. Roer regelmatig door. Voeg zodra de bouillon door de risottokorrels is opgenomen weer ⅓ van de bouillon toe. Verwijder ondertussen de zaadlijsten van de rode peper en snijd de rode peper fijn. Snijd de basilicumblaadjes in dunne reepjes.",
+    "Roer de tomatenblokjes door de risotto. Voeg de overige bouillon toe en laat de rijstkorrels de bouillon weer langzaam opnemen. Blijf goed doorroeren. De risotto is gaar zodra de korrel van buiten zacht is, maar nog een lichte bite heeft van binnen. Voeg eventueel extra water toe om de korrels verder te garen.",
+    "Haal de pan van het vuur. Scheur de buffelmozzarella in stukjes en roer samen met de helft van de basilicumblaadjes door de risotto. Voeg vervolgens de helft van de pecorino en peper en zout naar smaak toe. Laat, afgedekt, 2 minuten staan.",
+    "Verdeel de risotto over de borden en bestrooi met de rode peper, de overige pecorino en het overige basilicum."
+  ]
+}

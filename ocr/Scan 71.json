@@ -1,0 +1,69 @@
+{
+  "title": "Spaghetti bolognese met kipgehakt",
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Ui",
+      "quantity": 3,
+      "unit": "st"
+    },
+    {
+      "name": "Knoflookteen",
+      "quantity": 3,
+      "unit": "st"
+    },
+    {
+      "name": "Groene paprika",
+      "quantity": 3,
+      "unit": "st"
+    },
+    {
+      "name": "Pruimtomaten",
+      "quantity": 12,
+      "unit": "st"
+    },
+    {
+      "name": "Italiaans gekruid kipgehakt",
+      "quantity": 720,
+      "unit": "g"
+    },
+    {
+      "name": "Tomatenpuree",
+      "quantity": 1.5,
+      "unit": "blik"
+    },
+    {
+      "name": "Spaghetti integrale",
+      "quantity": 540,
+      "unit": "g"
+    },
+    {
+      "name": "Belegen kaas geraspt",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Olijfolie*",
+      "quantity": 1.5,
+      "unit": "el"
+    },
+    {
+      "name": "Zwarte balsamicoazijn*",
+      "quantity": 3,
+      "unit": "el"
+    },
+    {
+      "name": "Bruine suiker*",
+      "quantity": 3,
+      "unit": "tl"
+    }
+  ],
+  "steps": [
+    "Kook 500 ml water per persoon voor de spaghetti in een pan met deksel.",
+    "Snipper de ui en snijd de knoflook fijn. Verwijder de zaadlijsten van de groene paprika en snijd de paprika in blokjes. Snijd de tomaten ook in blokjes.",
+    "Verhit de olijfolie in een wok of hapjespan met deksel en bak het Italiaans gekruid kipgehakt met de ui en knoflook in 5 minuten los op middelhoog vuur.",
+    "Voeg de tomatenpuree toe aan de wok of hapjespan en bak 2 minuten. Voeg de paprika, tomaten, zwarte balsamicoazijn en bruine suiker en 25 ml water per persoon toe. Breng op smaak met peper en zout en dek af. Laat de tomatensaus, afgedekt, 10 minuten op middellaag vuur sudderen.",
+    "Kook ondertussen de spaghetti, afgedekt, 10 – 12 minuten in de pan met kokend water. Giet daarna af en voeg toe aan de pan met tomatensaus. Breng op smaak met peper en zout.",
+    "Verdeel de spaghetti bolognese over de borden en garneer met de belegen kaas."
+  ]
+}

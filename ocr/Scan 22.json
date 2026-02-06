@@ -1,0 +1,69 @@
+{
+  "title": "Mexicaanse taco's met kipgehakt",
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Ui",
+      "quantity": 3,
+      "unit": "st"
+    },
+    {
+      "name": "Groene peper",
+      "quantity": 1.5,
+      "unit": "st"
+    },
+    {
+      "name": "Groene paprika",
+      "quantity": 2.5,
+      "unit": "st"
+    },
+    {
+      "name": "Pruimtomaat",
+      "quantity": 6,
+      "unit": "st"
+    },
+    {
+      "name": "Mexicaans gekruid kipgehakt",
+      "quantity": 720,
+      "unit": "g"
+    },
+    {
+      "name": "Zonnebloemolie",
+      "quantity": 3,
+      "unit": "el"
+    },
+    {
+      "name": "Zwarte balsamicoazijn",
+      "quantity": 6,
+      "unit": "el"
+    },
+    {
+      "name": "Tomatenpuree",
+      "quantity": 3,
+      "unit": "blikje"
+    },
+    {
+      "name": "HAK kleine rode kidneybonen",
+      "quantity": 3,
+      "unit": "zak"
+    },
+    {
+      "name": "Tacoschelpen",
+      "quantity": 18,
+      "unit": "st"
+    },
+    {
+      "name": "Geraspte cheddar",
+      "quantity": 60,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "SNIJDEN: Verwarm de oven voor op 180 graden. Snipper de ui. Verwijder de zaadlijsten van de groene peper en de groene paprika. Snijd de groene peper fijn. Snijd de groene paprika en de tomaat in kleine blokjes.",
+    "KIPGEHAKT BAKKEN: Verhit de zonnebloemolie in een wok of hapjespan met deksel en bak het kipgehakt in 2 minuten los op middelhoog vuur.",
+    "ROERBAKKEN: Voeg vervolgens de ui, groene peper, groene paprika en de tomatenpuree toe aan de wok of hapjespan en roerbak nog 2 minuten.",
+    "STOVEN: Voeg de blokjes tomaat, de kidneybonen en de zwarte balsamicoazijn toe aan de hapjespan en laat, afgedekt, 10 - 12 minuten zachtjes koken op middellaag vuur. Breng op smaak met peper en zout. Mocht je saus nog te nat vinden, laat hem dan nog 2 - 3 minuten zonder deksel inkoken.",
+    "TACOSCHELPEN VERWARMEN: Verdeel ondertussen de tacoschelpen over een bakplaat met bakpapier en verwarm ze 5 minuten in de oven.",
+    "SERVEREN: Verdeel de taco's over de borden en vul met het kipgehaktmengsel, garneer met de geraspte cheddar."
+  ]
+}

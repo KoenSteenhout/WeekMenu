@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Gemini API cache (~190 MB)
+scripts/_cache/
+
+# Temporary PDF page images
+scripts/_tmp_pages/
+
+# Database (allow recipes.db for deployment, ignore backups)
+data/*_backup.db
+data/*kopie*.db
+
+# Generated PDFs
+scripts/weekmenu.pdf
+
+# Environment / secrets
+.env
+
+# IDE
+.vscode/
+.idea/

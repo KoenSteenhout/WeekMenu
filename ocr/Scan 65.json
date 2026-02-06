@@ -1,0 +1,84 @@
+{
+  "title": "Platbroodpizza met Coppa di Parma",
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Rode ui",
+      "quantity": 3,
+      "unit": "st"
+    },
+    {
+      "name": "Knoflookteen",
+      "quantity": 6,
+      "unit": "st"
+    },
+    {
+      "name": "Pruimtomaat",
+      "quantity": 6,
+      "unit": "st"
+    },
+    {
+      "name": "Tomatenpuree",
+      "quantity": 3,
+      "unit": "blikje"
+    },
+    {
+      "name": "Champignons",
+      "quantity": 600,
+      "unit": "g"
+    },
+    {
+      "name": "Coppa di Parma",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Verse basilicum",
+      "quantity": 36,
+      "unit": "blaadjes"
+    },
+    {
+      "name": "Libanees platbrood",
+      "quantity": 3,
+      "unit": "st"
+    },
+    {
+      "name": "Provolone flakes",
+      "quantity": 175,
+      "unit": "g"
+    },
+    {
+      "name": "Rucola",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Olijfolie",
+      "quantity": 3,
+      "unit": "el"
+    },
+    {
+      "name": "Zwarte balsamicoazijn",
+      "quantity": 0.5,
+      "unit": "tl"
+    },
+    {
+      "name": "Extra vierge olijfolie",
+      "quantity": 2,
+      "unit": "el"
+    },
+    {
+      "name": "Peper & zout",
+      "quantity": 0,
+      "unit": "naar smaak"
+    }
+  ],
+  "steps": [
+    "Verwarm de oven voor op 200 graden. Snipper de rode ui (zie tip). Pers of snijd de knoflook fijn. Snijd de tomaten in blokjes.",
+    "Verhit de olijfolie in een steelpan en fruit de ui met de knoflook 1 – 2 minuten op middelhoog vuur. Voeg de tomaten, de tomatenpuree, de zwarte balsamicoazijn en 35 ml water per persoon toe en laat 7 minuten op laag vuur inkoken. Breng op smaak met peper en zout.",
+    "Snijd ondertussen de champignons in plakken en snijd of scheur de coppa di Parma in tweeën. Snijd zowel de takjes als de blaadjes van het basilicum grof.",
+    "Besmeer de platbroden met de tomatensaus. Beleg met de champignons, de coppa en de provolone. Leg de pizza op een bakplaat met bakpapier en bak de pizza's 10 minuten in de oven of totdat ze goudbruin zijn.",
+    "Meng ondertussen de rucola met de extra vierge olijfolie in een kom.",
+    "Haal de platbroodpizza's uit de oven en garneer met de rucola en het basilicum."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Krieltjessalade met appel, geitenkaas en walnoten",
+  "servings": 0,
+  "ingredients": [
+    {
+      "name": "Krieltjes",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Sjalot",
+      "quantity": 0.25,
+      "unit": "st"
+    },
+    {
+      "name": "Junami appel",
+      "quantity": 1,
+      "unit": "st"
+    },
+    {
+      "name": "IJsbergsla, veldsla & frisee",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Verse geitenkaas",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Walnoten",
+      "quantity": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Extra vierge olijfolie",
+      "quantity": 1.5,
+      "unit": "el"
+    },
+    {
+      "name": "Zwarte balsamicoazijn",
+      "quantity": 1,
+      "unit": "el"
+    },
+    {
+      "name": "Honing",
+      "quantity": 1.5,
+      "unit": "el"
+    },
+    {
+      "name": "Peper & zout",
+      "quantity": 0,
+      "unit": "naar smaak"
+    }
+  ],
+  "steps": [
+    "Was de krieltjes grondig. Halveer en snijd eventuele grote krieltjes in kwarten.",
+    "Kook de krieltjes afgedekt in de pan met 250 ml water per persoon in een pannetje 12 – 15 minuten gaar. Giet daarna het water af en laat zonder deksel uitstomen.",
+    "Snipper ondertussen de sjalot. Snijd de appel (Junami) in kwarten, verwijder het klokhuis en snijd de appel in dunne partjes.",
+    "Maak een dressing van de extra vierge olijfolie, de zwarte balsamicoazijn en de honing in een saladekom. Breng op smaak met peper en zout.",
+    "Voeg de krieltjes, de ijsbergsla, veldsla & frisee, sjalot en appel toe aan de saladekom en meng met de dressing.",
+    "Verdeel de krieltjessalade over de borden en garneer met de geitenkaas. Bestrooi met de walnoten."
+  ]
+}

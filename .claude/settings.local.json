@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(sqlite3:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(du:*)",
+      "Bash(xargs:*)",
+      "Bash(python3 -m py_compile:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
