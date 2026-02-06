@@ -4,15 +4,18 @@ import hashlib
 import fitz  # PyMuPDF
 import google.generativeai as genai
 from typing import List
+from pathlib import Path
 
 from db import get_connection, ensure_tables_exist, insert_recipe as db_insert_recipe
 
 # =========================
 # Config
 # =========================
-PDF_DIR = "../pdf"
-TMP_IMG_DIR = "_tmp_pages"
-CACHE_DIR = "_cache"
+SCRIPT_DIR = Path(__file__).parent
+PROJECT_ROOT = SCRIPT_DIR.parent
+PDF_DIR = str(PROJECT_ROOT / "pdf")
+TMP_IMG_DIR = str(SCRIPT_DIR / "_tmp_pages")
+CACHE_DIR = str(SCRIPT_DIR / "_cache")
 
 os.makedirs(TMP_IMG_DIR, exist_ok=True)
 os.makedirs(CACHE_DIR, exist_ok=True)

@@ -18,7 +18,10 @@ from reportlab.pdfbase.pdfmetrics import stringWidth
 # =========================
 # Config
 # =========================
-DB_PATH = Path("../data/recipes.db")
+# Get script directory and build paths from there
+SCRIPT_DIR = Path(__file__).parent
+PROJECT_ROOT = SCRIPT_DIR.parent
+DB_PATH = PROJECT_ROOT / "data" / "recipes.db"
 OUTPUT_PDF = "weekmenu.pdf"
 
 TARGET_SERVINGS = 4  # 👈 standaard aantal personen
@@ -28,7 +31,7 @@ DAYS = [
     "Donderdag", "Vrijdag", "Zaterdag", "Zondag"
 ]
 
-PANTRY_PATH = Path("../data/pantry.json")
+PANTRY_PATH = PROJECT_ROOT / "data" / "pantry.json"
 
 DEFAULT_PANTRY = [
     "peper", "zwarte peper", "peper en zout", "peper & zout",

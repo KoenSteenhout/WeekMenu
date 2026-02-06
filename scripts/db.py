@@ -3,7 +3,10 @@ import sqlite3
 import hashlib
 from pathlib import Path
 
-DB_PATH = Path("../data/recipes.db")
+# Get script directory and build paths from there
+SCRIPT_DIR = Path(__file__).parent
+PROJECT_ROOT = SCRIPT_DIR.parent
+DB_PATH = PROJECT_ROOT / "data" / "recipes.db"
 
 
 def get_connection():

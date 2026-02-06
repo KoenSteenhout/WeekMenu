@@ -1,12 +1,15 @@
 import os
 import json
+from pathlib import Path
 
 from db import get_connection, ensure_tables_exist, insert_recipe as db_insert_recipe
 
 # =========================
 # Config
 # =========================
-JSON_DIR = "../ocr"          # map met .json bestanden
+SCRIPT_DIR = Path(__file__).parent
+PROJECT_ROOT = SCRIPT_DIR.parent
+JSON_DIR = str(PROJECT_ROOT / "ocr")  # map met .json bestanden
 
 
 # =========================
